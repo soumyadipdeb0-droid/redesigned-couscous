@@ -1,0 +1,4 @@
+John Doe
+Data Scientist with 4 years experience.
+Skills: Python, SQL, Machine Learning, AWS, Docker, NLP.
+Looking for Remote or Bangalore roles.
